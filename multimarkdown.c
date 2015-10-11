@@ -152,7 +152,7 @@ int main(int argc, char **argv)
 				"    --mask, --nomask       Mask email addresses in HTML\n"
 				"    --escaped-line-breaks  Enable escaped line breaks\n"
 
-				"\nAvailable FORMATs: html(default), latex, beamer, memoir, odf, opml, lyx, mmd\n\n"
+				"\nAvailable FORMATs: html(default), latex, beamer, memoir, odf, opml, lyx, mmd, rtf\n\n"
 				"NOTE: The lyx output format was created by Charles R. Cowan, and \n\tis provided as is.\n\n\n"
 				);
 				return(EXIT_SUCCESS);
